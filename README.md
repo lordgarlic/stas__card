@@ -1,2 +1,2 @@
-# stas__card
+# stats__card
 Stats Preview Card - frontendmentor challenge
